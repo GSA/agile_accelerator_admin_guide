@@ -4,7 +4,7 @@ Below are supplemental instructions for customizing an installation of Salesforc
 - [Add Work Type to Work Status Detail Page]               (#add-work-type-to-work-status-detail-page)
 - [Add Tabs for Other AA Objects]                          (#add-tabs-for-other-aa-objects)
 - [Update Column Lookup Search Layout]                     (#update-column-lookup-search-layout)
-- [Updating Kanban Board to Relfect Work Status]           (#updating-kanban-board-to-reflect-work-status)
+- [Updating Kanban Board to Reflect Work Status]           (#updating-kanban-board-to-reflect-work-status)
 
 
 ## Add Work Type to Work Status Detail Page
